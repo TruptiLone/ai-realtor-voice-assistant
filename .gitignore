@@ -1,0 +1,27 @@
+# secrets
+.env
+*.env
+!.env.example
+
+# python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# generated vector indexes (rebuilt automatically on first run)
+faiss_index/
+
+# node
+node_modules/
+frontend/build/
+
+# os / editors
+.DS_Store
+.vscode/
+.idea/
+
+# large media (host demo videos on YouTube / Drive and link them)
+*.mp4
+*.mov
+*.zip

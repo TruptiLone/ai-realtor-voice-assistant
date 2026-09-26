@@ -1,0 +1,77 @@
+/* src/components/ListingCard.module.css */
+
+.card {
+    display: flex;
+    align-items: center;
+    background: var(--color-card);
+    border-radius: 12px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.08);
+    transition: transform 0.2s, box-shadow 0.2s;
+    padding: 20px;
+  }
+  
+  .card:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 4px 12px rgba(0,0,0,0.12);
+  }
+  
+  .image {
+    flex-shrink: 0;
+    width: 100px;
+    height: 80px;
+    border-radius: 8px;
+    overflow: hidden;
+    background: #eceff1;
+  }
+  
+  .houseImg {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  
+  .info {
+    flex: 1;
+    margin: 0 24px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  
+  .title {
+    font-size: 1.125rem;
+    font-weight: 600;
+    color: var(--color-text);
+    margin-bottom: 4px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+  
+  .details {
+    font-size: 0.875rem;
+    color: var(--color-subtext);
+  }
+  
+  .buttonWrapper {
+    flex-shrink: 0;
+  }
+  
+  .selectButton {
+    background: linear-gradient(135deg, var(--color-primary-light), var(--color-primary));
+    color: #fff;
+    border: none;
+    padding: 8px 16px;
+    font-size: 0.875rem;
+    font-weight: 500;
+    border-radius: 6px;
+    cursor: pointer;
+    box-shadow: 0 2px 6px rgba(38,132,255,0.4);
+    transition: background 0.2s, box-shadow 0.2s;
+  }
+  
+  .selectButton:hover {
+    background: linear-gradient(135deg, var(--color-primary), var(--color-primary-light));
+    box-shadow: 0 4px 12px rgba(38,132,255,0.6);
+  }
+  

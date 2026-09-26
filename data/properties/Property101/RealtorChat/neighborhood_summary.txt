@@ -1,0 +1,17 @@
+
+Schools:
+  - New Valley High School - New Valley High School, 1872 Lawrence Road, Santa Clara, CA 95051, United States of America (education, 0m)
+  - University of California Santa Clara Extension in Silicon Valley - University of California Santa Clara Extension in Silicon Valley, 2505 Augustine Drive, Santa Clara, CA 95054, United States of America (education, 0m)
+  - Bracher Elementary School - Bracher Elementary School, 2700 Chromite Drive, Santa Clara, CA 95051, United States of America (education, 0m)
+  - Cabrillo Middle School - Cabrillo Middle School, 2550 Cabrillo Avenue, Santa Clara, CA 95051, United States of America (education, 0m)
+  - Bowers Elementary School - Bowers Elementary School, 2755 Barkley Avenue, Santa Clara, CA 95051, United States of America (education, 0m)
+
+Restaurants:
+  - Beque Korean Grill - Beque Korean Grill, 3060 El Camino Real, Santa Clara, CA 95051, United States of America (catering, 0m)
+  - Poke Poke Fish Bar - Poke Poke Fish Bar, 2362 El Camino Real, Santa Clara, CA 95050, United States of America (catering, 0m)
+  - O Mok Jo Mok - O Mok Jo Mok, 3080 El Camino Real, Santa Clara, CA 95051, United States of America (catering, 0m)
+  - Lupita's Taqueria - Lupita's Taqueria, 2341 El Camino Real, Santa Clara, CA 95050, United States of America (catering, 0m)
+  - Puranpoli - Puranpoli, 3074 Scott Boulevard, Santa Clara, CA 95054, United States of America (catering, 0m)
+
+Hospitals:
+  - No notable places found nearby.

@@ -1,0 +1,153 @@
+/* src/pages/TourPage.module.css */
+
+/* ———————————————————————————————
+   Root variables
+————————————————————————————————— */
+:root {
+  --color-bg:            #f5f7fa;
+  --color-card:          #ffffff;
+  --color-primary:       #0052cc;
+  --color-primary-dark:  #003d99;
+  --color-text:          #172b4d;
+  --color-subtext:       #6b778c;
+}
+
+/* ———————————————————————————————
+   Page‐level background
+————————————————————————————————— */
+:global(body) {
+  background-color: var(--color-bg);
+  margin: 0;
+  padding: 0;
+  font-family: 'Inter', sans-serif;
+  color: var(--color-text);
+}
+
+/* ———————————————————————————————
+   Main white “card” wrapper
+————————————————————————————————— */
+.container {
+  max-width: 900px;
+  margin: 40px auto;
+  padding: 40px 20px;
+  background-color: var(--color-card);
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.05);
+  border-radius: 8px;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+/* ———————————————————————————————
+   Back link
+————————————————————————————————— */
+.backLink {
+  align-self: flex-start;
+  margin-bottom: 24px;
+  color: var(--color-primary);
+  text-decoration: none;
+  font-size: 0.9rem;
+}
+
+.backLink:hover {
+  text-decoration: underline;
+}
+
+/* ———————————————————————————————
+   Header & Title
+————————————————————————————————— */
+.header {
+  width: 100%;
+  margin-bottom: 32px;
+  text-align: center;
+}
+
+.title {
+  font-size: 2rem;
+  font-weight: 700;
+  margin: 0;
+}
+
+/* ———————————————————————————————
+   Main content stack
+————————————————————————————————— */
+.content {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 24px;
+}
+
+/* ———————————————————————————————
+   Image wrapper
+————————————————————————————————— */
+.imageWrapper {
+  width: 100%;
+  max-width: 600px;
+  border-radius: 12px;
+  overflow: hidden;
+  background: #e0e0e0;
+}
+
+.image {
+  display: block;
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+}
+
+/* ———————————————————————————————
+   Info panel (specs + button)
+————————————————————————————————— */
+.info {
+  width: 100%;
+  max-width: 600px;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 16px;
+}
+
+/* ———————————————————————————————
+   Specs list
+————————————————————————————————— */
+.specs {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.specs li {
+  font-size: 1rem;
+  margin-bottom: 8px;
+}
+
+/* ———————————————————————————————
+   Tour button
+————————————————————————————————— */
+.tourButton {
+  background-color: var(--color-primary);
+  color: #fff;
+  border: none;
+  padding: 12px 20px;
+  font-size: 1rem;
+  font-weight: 600;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+}
+
+.tourButton:hover {
+  background-color: var(--color-primary-dark);
+}
+
+/* ———————————————————————————————
+   Not-found state
+————————————————————————————————— */
+.notFound {
+  font-size: 1.25rem;
+  margin-bottom: 16px;
+  text-align: center;
+}

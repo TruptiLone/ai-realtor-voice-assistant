@@ -1,0 +1,55 @@
+/* src/pages/ListingsPage.module.css */
+
+:root {
+    --color-bg:    #f4f6f8;
+    --color-card:  #ffffff;
+    --color-primary: #0052cc;
+    --color-primary-light: #2684ff;
+    --color-text:   #172b4d;
+    --color-subtext:#6b778c;
+  }
+  
+  
+  /* Page container */
+.container {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 40px 20px;
+  background-color: var(--color-bg);
+  font-family: 'Inter', sans-serif;
+}
+
+/* Header */
+.header {
+  font-size: 2.5rem;
+  font-weight: 700;
+  color: var(--color-text);
+  margin-bottom: 24px;
+}
+
+/* Search bar */
+.searchWrapper {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 32px;
+}
+.searchInput {
+  width: 100%;
+  max-width: 600px;
+  padding: 12px 16px;
+  font-size: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  transition: box-shadow 0.2s ease;
+}
+.searchInput:focus {
+  outline: none;
+  box-shadow: 0 0 0 3px rgba(38, 132, 255, 0.3);
+}
+
+/* Listings grid */
+.listings {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}

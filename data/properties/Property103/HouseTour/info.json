@@ -1,0 +1,8 @@
+{
+    "address": "1234 Main St, Mountain View, CA 94043",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "homeSizeSqft": 950,
+    "imageUrl": "/static/Property3/HouseTour/Entrance3.webp",
+    "hasTour": false
+  }

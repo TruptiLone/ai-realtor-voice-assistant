@@ -1,0 +1,112 @@
+
+Property Details
+Basic Details:
+  Address: 2848 Chromite Dr, Santa Clara, CA 95051
+  Property Type: Single Family Residence
+  Year Built: 1958
+  Lot Size: 5600 square feet lot
+  Home Size: 1383 Sqft
+  Bedrooms Bathrooms: 4 beds 2 bath
+  Stories: Single level
+  Parking Info: 2 car attached garage
+  Hoa Fee: None
+Special Features:
+  - New electrical panel
+  - Gourmet kitchen
+  - Waterproof wood flooring
+  - Custom wood cabinetry
+  - Quartz countertops
+  - Stainless steel appliances
+  - Led recessed lights
+Description: Welcome to this charming, beautifully remodeled single-family home in the heart of Santa Clara, just 1 mile from NVIDIA. Offering 4 bedrooms, 2 bathrooms, 1,383 SqFt of living space plus a 236 SqFt bonus room on a 5,600 SqFt lot. Features include a new electrical panel, HVAC system, and plumbing. The gourmet kitchen boasts custom wood cabinetry, quartz countertops, and stainless steel appliances. Bathrooms have new vanities, faucets, mirrors, toilets, and doors. High-end flooring, fresh interior/exterior paint, new double-paned windows, and 30 LED recessed lights enhance the home.
+Nearby Highlights:
+  Central Park: A picturesque park with walking trails, playgrounds, picnic areas, and a lake
+  California's Great America: A thrilling amusement park with rides, shows, and attractions for all ages
+  Levi's Stadium: Home of the San Francisco 49ers and host to various sporting events and concerts
+  Tech Giants: Close proximity to Major Tech Giants like NVIDIA, Apple, Microsoft, Google, LinkedIn, and Facebook/Meta
+  Transportation: Easy access to public transit & highways
+  Schools: Top-rated schools within 2 miles
+Interior:
+  Bedrooms Bathrooms:
+    Bedrooms: 4
+    Bathrooms: 2
+    Full Bathrooms: 2
+  Rooms:
+    Bonus Room:
+      - 236 SqFt
+    Bathroom:
+      - Shower and Tub
+      - Skylight
+      - Tile
+      - Updated Baths
+    Dining Room:
+      - Dining Family Combo
+      - Skylights
+    Family Room:
+      - Separate Family Room
+    Kitchen:
+      - Exhaust Fan
+  Heating Cooling:
+    Heating: Central Forced Air
+    Cooling: Central Air
+  Appliances:
+    - Dishwasher
+    - Exhaust Fan
+    - Freezer
+    - Disposal
+    - Ice Maker
+    - Gas Oven/Range
+    - Refrigerator
+  Features:
+    - One Or More Skylights
+    - Flooring: Wood
+    - Number of fireplaces: 1
+    - Fireplace features: Family Room
+  Interior Area:
+    Structure Area: 1,383
+    Livable Area: 1,383 sqft
+Property:
+  Parking:
+    Total Spaces: 2
+    Features: Attached
+    Attached Garage Spaces: 2
+  Features:
+    Stories: 1
+    Patio Porch: Balcony/Patio
+    Exterior Features:
+      - Back Yard
+      - Barbecue
+      - Fenced
+      - Gazebo
+Lot:
+  Size: 5,600 Square Feet
+  Details:
+    Parcel Number: 21617078
+    Zoning: R1
+    Special Conditions: Standard
+Construction:
+  Type Style:
+    Home Type: Single Family
+    Property Subtype: Single Family Residence
+  Materials:
+    Foundation: Crawl Space
+    Roof: Shingle
+  Condition:
+    New Construction: No
+    Year Built: 1958
+Utilities:
+  Gas: Public Utilities
+  Sewer: Public Sewer
+  Water: Public
+  Utilities For Property:
+    - Public Utilities
+    - Water Public
+Community:
+  Region: Santa Clara
+Financial:
+  Price Per Square Foot: $1,365/sqft
+  Tax Assessed Value: $87,366
+  Annual Tax Amount: $1,160
+  Date On Market: 3/19/2025
+  Listing Agreement: Exclusive Right To Sell
+  Listing Terms: Cash or Conventional Loan

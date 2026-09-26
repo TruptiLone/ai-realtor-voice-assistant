@@ -1,0 +1,83 @@
+{
+    "welcomeAudio": "welcome.mp3",
+    "rooms": [
+      {
+        "name": "Welcome",
+        "images": ["FrontYard.webp"],
+        "audio": "welcome.mp3",
+        "description": "Let’s begin your tour through this beautiful property."
+      },
+      {
+        "name": "Front Yard",
+        "images": ["FrontYard.webp", "FrontYard2.webp"],
+        "audio": "frontyard.mp3",
+        "description": "A welcoming front yard with beautiful curb appeal and well-kept landscaping."
+      },
+      {
+        "name": "Living Room",
+        "images": [
+          "LivingRoom.webp",
+          "LivingRoom2.webp",
+          "LivingRoom3.webp",
+          "LivingRoom4.webp",
+          "LivingRoom5.webp"
+        ],
+        "audio": "livingroom.mp3",
+        "description": "Spacious and sun-filled, the living room offers comfort and flexibility."
+      },
+      {
+        "name": "Dinning Room",
+        "images": ["DinningRoom1.webp"],
+        "audio": "dinning.mp3",
+        "description": "Conveniently located next to the kitchen, this dining area is perfect for everyday meals or entertaining."
+      },
+      {
+        "name": "Kitchen",
+        "images": ["Kitchen1.webp", "Kitchen2.webp", "Kitchen3.webp"],
+        "audio": "kitchen.mp3",
+        "description": "Equipped with quartz countertops and modern appliances, this kitchen is built for cooking and connection."
+      },
+      {
+        "name": "Master Bedroom",
+        "images": [
+          "Bathroom3.webp",
+          "Bathroom4.webp",
+          "Bedroom1.webp",
+          "Bedroom2.webp"
+        ],
+        "audio": "masterbedroom.mp3",
+        "description": "A peaceful master retreat with its own ensuite bathroom and walk-in closet."
+      },
+      {
+        "name": "Guest Room",
+        "images": ["Bedroom3.webp"],
+        "audio": "guestroom.mp3",
+        "description": "A cozy guest bedroom filled with natural light and comfort."
+      },
+      {
+        "name": "Kid Room",
+        "images": ["Kidroom1.webp", "Kidroom2.webp"],
+        "audio": "kidroom.mp3",
+        "description": "Fun and playful space designed for kids with plenty of room to grow."
+      },
+      {
+        "name": "Study Room",
+        "images": ["StudyRoom1.webp", "StudyRoom2.webp"],
+        "audio": "studyroom.mp3",
+        "description": "A quiet space for productivity, reading, or focused work-from-home sessions."
+      },
+      {
+        "name": "Backyard",
+        "images": [
+          "Backyard1.webp",
+          "Backyard2.webp",
+          "Backyard3.webp",
+          "Backyard4.webp",
+          "Backyard6.webp"
+        ],
+        "audio": "backyard.mp3",
+        "description": "A serene and functional outdoor space with a patio and gazebo for entertaining or relaxing."
+      }
+    ]
+  }
+  
