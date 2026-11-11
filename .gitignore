@@ -25,3 +25,6 @@ frontend/build/
 *.mp4
 *.mov
 *.zip
+
+# keep the demo video in docs
+!docs/demo/*.mp4
